@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro:    "<h5><strong style="font-size : 25px; color: brown;">Java</strong>,<strong style="font-size : 25px; color: green;">Spring</strong> 기반의 <strong style=" font-size : 25px; color: tomato">BackEnd개발자</strong> 입니다.<br/>소소하게 <strong style="font-size : 25px; color: blue;">React.js</strong>를 다룰 수 있으며 배움에 멈춤이 없는 개발자 입니다.<br/> 기존에는 <strong style="font-size : 25px; color: orange;">MyBatis</strong>기반의 프로젝트를 진행해 왔으나,<br/>최근 <strong style="font-size : 25px; color: violet;">JPA</strong>에 관심이 많아, 기술을 적용해보며 배움의 즐거움을 느끼고 있습니다.<br/></h5>"
+resume_header_intro:    "<h5><strong style=font-size: 25px; color: brown>Java</strong> </h5>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
